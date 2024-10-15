@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Siwar Djebbi</h1>
 <h3 align="center">A passionate fullstack developer - software engineering student from Tunisia</h3>
 
-<img align="right" alt="Coding" width="400" src="https://in.pinterest.com/pin/71072500353753777/">
+<img align="right" alt="Coding" width="400" src="[https://in.pinterest.com/pin/71072500353753777/](https://soulofmathematics.com/index.php/the-golden-ratio/)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siwar-djebbi&label=Profile%20views&color=0e75b6&style=flat" alt="siwar-djebbi" /> </p>
 
